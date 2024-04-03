@@ -23,6 +23,6 @@ In this visualization, we could identify:
 
 ![Sales Analysis Project](https://github.com/DeekshithKGowda/MeriSKILL-Internship-Sales-Analysis-Project/assets/162271614/0bad003c-ed3e-41c6-acb0-d7ffef2f8387)
 
-## Acknowledgements
+## Acknowledgements:
 I thank MeriSKILL for providing me the datasets and being supportive for me during the process. Special thanks to Power BI for providing a powerful platform for data visualization and analysis.
 
